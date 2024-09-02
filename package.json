@@ -19,9 +19,11 @@
     "@mui/material-nextjs": "latest",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "recharts": "^2.12.7"
   },
   "devDependencies": {
+    "@iconify/react": "^5.0.2",
     "@types/node": "latest",
     "@types/react": "latest",
     "eslint": "latest",
